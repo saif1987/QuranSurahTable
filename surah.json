@@ -1,0 +1,1034 @@
+[
+    {
+      "order": 1,
+      "name": "Al-Fatiha",
+      "ayat_count": 7,
+      "makki_madani": "Makki",
+      "group": "I",
+      "Symbol": "Fat",
+      "Meaning": "The Opening"
+    },
+    {
+      "order": 2,
+      "name": "Al-Baqarah",
+      "ayat_count": 286,
+      "makki_madani": "Madani",
+      "group": "I",
+      "Symbol": "Bqr",
+      "Meaning": "The Cow"
+    },
+    {
+      "order": 3,
+      "name": "Ali 'Imran",
+      "ayat_count": 200,
+      "makki_madani": "Madani",
+      "group": "I",
+      "Symbol": "Imr",
+      "Meaning": "Family of Imran"
+    },
+    {
+      "order": 4,
+      "name": "An-Nisa",
+      "ayat_count": 176,
+      "makki_madani": "Madani",
+      "group": "I",
+      "Symbol": "Nis",
+      "Meaning": "The Women"
+    },
+    {
+      "order": 5,
+      "name": "Al-Ma'idah",
+      "ayat_count": 120,
+      "makki_madani": "Madani",
+      "group": "I",
+      "Symbol": "Mdh",
+      "Meaning": "The Table Spread"
+    },
+    {
+      "order": 6,
+      "name": "Al-An'am",
+      "ayat_count": 165,
+      "makki_madani": "Makki",
+      "group": "II",
+      "Symbol": "Anm",
+      "Meaning": "The Cattle"
+    },
+    {
+      "order": 7,
+      "name": "Al-A'raf",
+      "ayat_count": 206,
+      "makki_madani": "Makki",
+      "group": "II",
+      "Symbol": "Arf",
+      "Meaning": "The Heights"
+    },
+    {
+      "order": 8,
+      "name": "Al-Anfal",
+      "ayat_count": 75,
+      "makki_madani": "Madani",
+      "group": "II",
+      "Symbol": "Anf",
+      "Meaning": "The Spoils of War"
+    },
+    {
+      "order": 9,
+      "name": "At-Tawbah",
+      "ayat_count": 129,
+      "makki_madani": "Madani",
+      "group": "II",
+      "Symbol": "Twb",
+      "Meaning": "The Repentance"
+    },
+    {
+      "order": 10,
+      "name": "Yunus",
+      "ayat_count": 109,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Yns",
+      "Meaning": "Jonah"
+    },
+    {
+      "order": 11,
+      "name": "Hud",
+      "ayat_count": 123,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Hd",
+      "Meaning": "Hud"
+    },
+    {
+      "order": 12,
+      "name": "Yusuf",
+      "ayat_count": 111,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Ysf",
+      "Meaning": "Joseph"
+    },
+    {
+      "order": 13,
+      "name": "Ar-Ra'd",
+      "ayat_count": 43,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Rd",
+      "Meaning": "The Thunder"
+    },
+    {
+      "order": 14,
+      "name": "Ibrahim",
+      "ayat_count": 52,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Ibr",
+      "Meaning": "Abraham"
+    },
+    {
+      "order": 15,
+      "name": "Al-Hijr",
+      "ayat_count": 99,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Hij",
+      "Meaning": "The Rocky Tract"
+    },
+    {
+      "order": 16,
+      "name": "An-Nahl",
+      "ayat_count": 128,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Nhl",
+      "Meaning": "The Bee"
+    },
+    {
+      "order": 17,
+      "name": "Al-Isra",
+      "ayat_count": 111,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Isr",
+      "Meaning": "The Night Journey"
+    },
+    {
+      "order": 18,
+      "name": "Al-Kahf",
+      "ayat_count": 110,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Khf",
+      "Meaning": "The Cave"
+    },
+    {
+      "order": 19,
+      "name": "Maryam",
+      "ayat_count": 98,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Mry",
+      "Meaning": "Mary"
+    },
+    {
+      "order": 20,
+      "name": "Ta-Ha",
+      "ayat_count": 135,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "T-h",
+      "Meaning": "Ta-Ha"
+    },
+    {
+      "order": 21,
+      "name": "Al-Anbiya",
+      "ayat_count": 112,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Anb",
+      "Meaning": "The Prophets"
+    },
+    {
+      "order": 22,
+      "name": "Al-Hajj",
+      "ayat_count": 78,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Hjj",
+      "Meaning": "The Pilgrimage"
+    },
+    {
+      "order": 23,
+      "name": "Al-Mu'minun",
+      "ayat_count": 118,
+      "makki_madani": "Makki",
+      "group": "III",
+      "Symbol": "Mum",
+      "Meaning": "The Believers"
+    },
+    {
+      "order": 24,
+      "name": "An-Nur",
+      "ayat_count": 64,
+      "makki_madani": "Madani",
+      "group": "III",
+      "Symbol": "Nr",
+      "Meaning": "The Light"
+    },
+    {
+      "order": 25,
+      "name": "Al-Furqan",
+      "ayat_count": 77,
+      "makki_madani": "Makki",
+      "group": "IV",
+      "Symbol": "Frq",
+      "Meaning": "The Criterion"
+    },
+    {
+      "order": 26,
+      "name": "Ash-Shu'ara",
+      "ayat_count": 227,
+      "makki_madani": "Makki",
+      "group": "IV",
+      "Symbol": "Shu1",
+      "Meaning": "The Poets"
+    },
+    
+
+        {
+          "order": 27,
+          "name": "An-Naml",
+          "ayat_count": 93,
+          "makki_madani": "Makki",
+          "group": "IV",
+          "Symbol": "Nml",
+          "Meaning": "The Ant"
+        },
+        {
+          "order": 28,
+          "name": "Al-Qasas",
+          "ayat_count": 88,
+          "makki_madani": "Makki",
+          "group": "IV",
+          "Symbol": "Qss",
+          "Meaning": "The Stories"
+        },
+        {
+          "order": 29,
+          "name": "Al-Ankabut",
+          "ayat_count": 69,
+          "makki_madani": "Makki",
+          "group": "IV",
+          "Symbol": "Ank",
+          "Meaning": "The Spider"
+        },
+        {
+          "order": 30,
+          "name": "Ar-Rum",
+          "ayat_count": 60,
+          "makki_madani": "Makki",
+          "group": "IV",
+          "Symbol": "Rm",
+          "Meaning": "The Romans"
+        },
+        {
+          "order": 31,
+          "name": "Luqman",
+          "ayat_count": 34,
+          "makki_madani": "Makki",
+          "group": "IV",
+          "Symbol": "Lqm",
+          "Meaning": "Luqman"
+        },
+        {
+          "order": 32,
+          "name": "As-Sajdah",
+          "ayat_count": 30,
+          "makki_madani": "Makki",
+          "group": "IV",
+          "Symbol": "Sjd",
+          "Meaning": "The Prostration"
+        },
+        {
+          "order": 33,
+          "name": "Al-Ahzab",
+          "ayat_count": 73,
+          "makki_madani": "Madani",
+          "group": "IV",
+          "Symbol": "Ahz",
+          "Meaning": "The Combined Forces"
+        },
+        {
+          "order": 34,
+          "name": "Saba",
+          "ayat_count": 54,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Sb",
+          "Meaning": "Sheba"
+        },
+        {
+          "order": 35,
+          "name": "Fatir",
+          "ayat_count": 45,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Ftr",
+          "Meaning": "The Originator"
+        },
+        {
+          "order": 36,
+          "name": "Ya-Sin",
+          "ayat_count": 83,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Y-s",
+          "Meaning": "Ya Sin"
+        },
+        {
+          "order": 37,
+          "name": "As-Saffat",
+          "ayat_count": 182,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Sft",
+          "Meaning": "Those arranged in ranks"
+        },
+          {
+          "order": 38,
+          "name": "Sad",
+          "ayat_count": 88,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Sd",
+          "Meaning": "The letter 'Saad'"
+        },
+        {
+          "order": 39,
+          "name": "Az-Zumar",
+          "ayat_count": 75,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Zmr",
+          "Meaning": "The Troops"
+        },
+        {
+          "order": 40,
+          "name": "Ghafir (Al-Mu'min)",
+          "ayat_count": 85,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Mmn",
+          "Meaning": "The Forgiver (The Believer)"
+        },
+        {
+          "order": 41,
+          "name": "Fussilat",
+          "ayat_count": 54,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Fss",
+          "Meaning": "Explained in Detail"
+        },
+        {
+          "order": 42,
+          "name": "Ash-Shura",
+          "ayat_count": 53,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Shu",
+          "Meaning": "The Consultation"
+        },
+        {
+          "order": 43,
+          "name": "Az-Zukhruf",
+          "ayat_count": 89,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Zkh",
+          "Meaning": "The Ornaments of Gold"
+        },
+        {
+          "order": 44,
+          "name": "Ad-Dukhan",
+          "ayat_count": 59,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Dkh",
+          "Meaning": "The Smoke"
+        },
+        {
+          "order": 45,
+          "name": "Al-Jathiya",
+          "ayat_count": 37,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Jth",
+          "Meaning": "The Crouching"
+        },
+        {
+          "order": 46,
+          "name": "Al-Ahqaf",
+          "ayat_count": 35,
+          "makki_madani": "Makki",
+          "group": "V",
+          "Symbol": "Ahq",
+          "Meaning": "The Wind-Curved Sandhills"
+        },
+        {
+          "order": 47,
+          "name": "Muhammad",
+          "ayat_count": 38,
+          "makki_madani": "Madani",
+          "group": "V",
+          "Symbol": "Mhm",
+          "Meaning": "Muhammad"
+        },
+        {
+          "order": 48,
+          "name": "Al-Fath",
+          "ayat_count": 29,
+          "makki_madani": "Madani",
+          "group": "V",
+          "Symbol": "Fth",
+          "Meaning": "The Victory"
+        },
+        {
+          "order": 49,
+          "name": "Al-Hujurat",
+          "ayat_count": 18,
+          "makki_madani": "Madani",
+          "group": "V",
+          "Symbol": "Hjr",
+          "Meaning": "The Dwellings"
+        },
+        {
+          "order": 50,
+          "name": "Qaf",
+          "ayat_count": 45,
+          "makki_madani": "Makki",
+          "group": "VI",
+          "Symbol": "Qf",
+          "Meaning": "Qaf"
+        },
+        {
+          "order": 51,
+          "name": "Adh-Dhariyat",
+          "ayat_count": 60,
+          "makki_madani": "Makki",
+          "group": "VI",
+          "Symbol": "Dhr",
+          "Meaning": "The Winnowing Winds"
+        },
+        {
+          "order": 52,
+          "name": "At-Tur",
+          "ayat_count": 49,
+          "makki_madani": "Makki",
+          "group": "VI",
+          "Symbol": "Tr",
+          "Meaning": "The Mount"
+        },
+    
+        {
+            "order": 53,
+            "name": "An-Najm",
+            "ayat_count": 62,
+            "makki_madani": "Makki",
+            "group": "VI",
+            "Symbol": "Njm",
+            "Meaning": "The Star"
+          },
+          {
+            "order": 54,
+            "name": "Al-Qamar",
+            "ayat_count": 55,
+            "makki_madani": "Makki",
+            "group": "VI",
+            "Symbol": "Qmr",
+            "Meaning": "The Moon"
+          },
+          {
+            "order": 55,
+            "name": "Ar-Rahman",
+            "ayat_count": 78,
+            "makki_madani": "Makki",
+            "group": "VI",
+            "Symbol": "Rhm",
+            "Meaning": "The Most Gracious"
+          },
+          {
+            "order": 56,
+            "name": "Al-Waqi'ah",
+            "ayat_count": 96,
+            "makki_madani": "Makki",
+            "group": "VI",
+            "Symbol": "Wqh",
+            "Meaning": "The Inevitable"
+          },
+          {
+            "order": 57,
+            "name": "Al-Hadid",
+            "ayat_count": 29,
+            "makki_madani": "Madani",
+            "group": "VI",
+            "Symbol": "Hdd",
+            "Meaning": "The Iron"
+          },
+          {
+            "order": 58,
+            "name": "Al-Mujadila",
+            "ayat_count": 22,
+            "makki_madani": "Madani",
+            "group": "VI",
+            "Symbol": "Mjd",
+            "Meaning": "The Pleading Woman"
+          },
+          {
+            "order": 59,
+            "name": "Al-Hashr",
+            "ayat_count": 24,
+            "makki_madani": "Madani",
+            "group": "VI",
+            "Symbol": "Hsh",
+            "Meaning": "The Exile"
+          },
+          {
+            "order": 60,
+            "name": "Al-Mumtahanah",
+            "ayat_count": 13,
+            "makki_madani": "Madani",
+            "group": "VI",
+            "Symbol": "Mmt",
+            "Meaning": "The Woman to be examined"
+          },
+          {
+            "order": 61,
+            "name": "As-Saff",
+            "ayat_count": 14,
+            "makki_madani": "Madani",
+            "group": "VI",
+            "Symbol": "Sff",
+            "Meaning": "The Ranks"
+          },
+          {
+            "order": 62,
+            "name": "Al-Jumu'ah",
+            "ayat_count": 11,
+            "makki_madani": "Madani",
+            "group": "VI",
+            "Symbol": "Jmh",
+            "Meaning": "The Congregation"
+          },
+          {
+            "order": 63,
+            "name": "Al-Munafiqun",
+            "ayat_count": 11,
+            "makki_madani": "Madani",
+            "group": "VI",
+            "Symbol": "Mnf",
+            "Meaning": "The Hypocrites"
+          },
+          {
+            "order": 64,
+            "name": "At-Taghabun",
+            "ayat_count": 18,
+            "makki_madani": "Madani",
+            "group": "VI",
+            "Symbol": "Tgh",
+            "Meaning": "Mutual Disillusion"
+          },
+            {
+            "order": 65,
+            "name": "At-Talaq",
+            "ayat_count": 12,
+            "makki_madani": "Madani",
+            "group": "VI",
+            "Symbol": "Tlq",
+            "Meaning": "The Divorce"
+          },
+          {
+            "order": 66,
+            "name": "At-Tahrim",
+            "ayat_count": 12,
+            "makki_madani": "Madani",
+            "group": "VI",
+            "Symbol": "Thr",
+            "Meaning": "The Prohibition"
+          },
+            {
+            "order": 67,
+            "name": "Al-Mulk",
+            "ayat_count": 30,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Mlk",
+            "Meaning": "The Dominion"
+          },
+          {
+            "order": 68,
+            "name": "Al-Qalam",
+            "ayat_count": 52,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Qlm",
+            "Meaning": "The Pen"
+          },
+          {
+            "order": 69,
+            "name": "Al-Haqqah",
+            "ayat_count": 52,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Hqq",
+            "Meaning": "The Reality"
+          },
+          {
+            "order": 70,
+            "name": "Al-Ma'arij",
+            "ayat_count": 44,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Mrj",
+            "Meaning": "The Ascending Stairways"
+          },
+          {
+            "order": 71,
+            "name": "Nuh",
+            "ayat_count": 28,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Nh",
+            "Meaning": "Noah"
+          },
+          {
+            "order": 72,
+            "name": "Al-Jinn",
+            "ayat_count": 28,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Jnn",
+            "Meaning": "The Jinn"
+          },
+          {
+            "order": 73,
+            "name": "Al-Muzzammil",
+            "ayat_count": 20,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Mzz",
+            "Meaning": "The Enshrouded One"
+          },
+          {
+            "order": 74,
+            "name": "Al-Muddaththir",
+            "ayat_count": 56,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Mdd",
+            "Meaning": "The Cloaked One"
+          },
+          {
+            "order": 75,
+            "name": "Al-Qiyamah",
+            "ayat_count": 40,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Qym",
+            "Meaning": "The Resurrection"
+          },
+          {
+            "order": 76,
+            "name": "Al-Insan (Ad-Dahr)",
+            "ayat_count": 31,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Inn",
+            "Meaning": "The Human (The Time)"
+          },
+          {
+            "order": 77,
+            "name": "Al-Mursalat",
+            "ayat_count": 50,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Mrs",
+            "Meaning": "The Emissaries"
+          },
+          {
+            "order": 78,
+            "name": "An-Naba",
+            "ayat_count": 40,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Nb",
+            "Meaning": "The Great News"
+          },
+          
+          
+
+          {
+            "order": 79,
+            "name": "An-Nazi'at",
+            "ayat_count": 46,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Nzt",
+            "Meaning": "Those who extract"
+          },
+          {
+            "order": 80,
+            "name": "Abasa",
+            "ayat_count": 42,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Abs",
+            "Meaning": "He frowned"
+          },
+          {
+            "order": 81,
+            "name": "At-Takwir",
+            "ayat_count": 29,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Tkw",
+            "Meaning": "The Overthrowing"
+          },
+          {
+            "order": 82,
+            "name": "Al-Infitar",
+            "ayat_count": 19,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Inf",
+            "Meaning": "The Cleaving Asunder"
+          },
+          {
+            "order": 83,
+            "name": "Al-Mutaffifin",
+            "ayat_count": 36,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Ttf",
+            "Meaning": "Those who deal in fraud"
+          },
+          {
+            "order": 84,
+            "name": "Al-Inshiqaq",
+            "ayat_count": 25,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Ins",
+            "Meaning": "The Sundering"
+          },
+          {
+            "order": 85,
+            "name": "Al-Buruj",
+            "ayat_count": 22,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Brj",
+            "Meaning": "The Constellations"
+          },
+          {
+            "order": 86,
+            "name": "At-Tariq",
+            "ayat_count": 17,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Trq",
+            "Meaning": "The Nightcomer"
+          },
+          {
+            "order": 87,
+            "name": "Al-A'la",
+            "ayat_count": 19,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Al",
+            "Meaning": "The Most High"
+          },
+          {
+            "order": 88,
+            "name": "Al-Ghashiyah",
+            "ayat_count": 26,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Ghs",
+            "Meaning": "The Overwhelming"
+          },
+          {
+            "order": 89,
+            "name": "Al-Fajr",
+            "ayat_count": 30,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Fjr",
+            "Meaning": "The Dawn"
+          },
+          {
+            "order": 90,
+            "name": "Al-Balad",
+            "ayat_count": 20,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Bld",
+            "Meaning": "The City"
+          },
+          {
+            "order": 91,
+            "name": "Ash-Shams",
+            "ayat_count": 15,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Shm",
+            "Meaning": "The Sun"
+          },
+          {
+            "order": 92,
+            "name": "Al-Layl",
+            "ayat_count": 21,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Lyl",
+            "Meaning": "The Night"
+          },
+          {
+            "order": 93,
+            "name": "Ad-Duha",
+            "ayat_count": 11,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Dh",
+            "Meaning": "The Morning Brightness"
+          },
+          {
+            "order": 94,
+            "name": "Ash-Sharh (Al-Inshirah)",
+            "ayat_count": 8,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Shr",
+            "Meaning": "The Relief (The Expansion)"
+          },
+          {
+            "order": 95,
+            "name": "At-Tin",
+            "ayat_count": 8,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Tn",
+            "Meaning": "The Fig"
+          },
+          {
+            "order": 96,
+            "name": "Al-Alaq",
+            "ayat_count": 19,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Alq",
+            "Meaning": "The Clot"
+          },
+          {
+            "order": 97,
+            "name": "Al-Qadr",
+            "ayat_count": 5,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Qdr",
+            "Meaning": "The Power"
+          },
+            {
+            "order": 98,
+            "name": "Al-Bayyinah",
+            "ayat_count": 8,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Byy",
+            "Meaning": "The Clear Proof"
+          },
+          {
+            "order": 99,
+            "name": "Az-Zalzalah",
+            "ayat_count": 8,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Zlz",
+            "Meaning": "The Earthquake"
+          },
+          
+          {
+            "order": 100,
+            "name": "Al-'Adiyat",
+            "ayat_count": 11,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Ady",
+            "Meaning": "The Courser"
+          },
+          {
+            "order": 101,
+            "name": "Al-Qari'ah",
+            "ayat_count": 11,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Qrh",
+            "Meaning": "The Calamity"
+          },
+          {
+            "order": 102,
+            "name": "At-Takathur",
+            "ayat_count": 8,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Tkt",
+            "Meaning": "Competition"
+          },
+          {
+            "order": 103,
+            "name": "Al-'Asr",
+            "ayat_count": 3,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Asr",
+            "Meaning": "The Declining Day"
+          },
+          {
+            "order": 104,
+            "name": "Al-Humazah",
+            "ayat_count": 9,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Hmz",
+            "Meaning": "The Traducer"
+          },
+          {
+            "order": 105,
+            "name": "Al-Fil",
+            "ayat_count": 5,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Fl",
+            "Meaning": "The Elephant"
+          },
+          {
+            "order": 106,
+            "name": "Quraysh",
+            "ayat_count": 4,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Qry",
+            "Meaning": "Quraysh"
+          },
+          {
+            "order": 107,
+            "name": "Al-Ma'un",
+            "ayat_count": 7,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Mn",
+            "Meaning": "Small Kindnesses"
+          },
+          {
+            "order": 108,
+            "name": "Al-Kawthar",
+            "ayat_count": 3,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Kth",
+            "Meaning": "Abundance"
+          },
+          {
+            "order": 109,
+            "name": "Al-Kafirun",
+            "ayat_count": 6,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Kfr",
+            "Meaning": "The Disbelievers"
+          },
+          {
+            "order": 110,
+            "name": "An-Nasr",
+            "ayat_count": 3,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Nsr",
+            "Meaning": "The Help"
+          },
+          {
+            "order": 111,
+            "name": "Al-Masad (Al-Lahab)",
+            "ayat_count": 5,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Lhb",
+            "Meaning": "The Palm Fiber (The Flame)"
+          },
+          {
+            "order": 112,
+            "name": "Al-Ikhlas",
+            "ayat_count": 4,
+            "makki_madani": "Makki",
+            "group": "VII",
+            "Symbol": "Ikh",
+            "Meaning": "Sincerity"
+          },
+          {
+            "order": 113,
+            "name": "Al-Falaq",
+            "ayat_count": 5,
+            "makki_madani": "Madani",
+            "group": "VII",
+            "Symbol": "Flq",
+            "Meaning": "The Daybreak"
+          },
+          {
+            "order": 114,
+            "name": "An-Nas",
+            "ayat_count": 6,
+            "makki_madani": "Madani",
+            "group": "VII",
+            "Symbol": "Ns",
+            "Meaning": "The Mankind"
+          }]
